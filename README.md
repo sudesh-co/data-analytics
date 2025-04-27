@@ -1,4 +1,3 @@
-![Banner](assets/data-analytics-banner.png)
 
 # 📊 Learning Data Analytics
 
